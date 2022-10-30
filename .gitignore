@@ -1,3 +1,4 @@
-./config.mine.yaml
-./test.py
-./venv/**
+config.mine.yaml
+test.py
+venv/**
+.idea/*

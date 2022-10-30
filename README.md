@@ -14,6 +14,10 @@ I'm using Alist which can consolidate my net drives as well as providing WebDav 
 Alist install guide:
 https://alist.nn.ci/guide/
 
+##3. Install required python libs
+`pip install -r ./requirements.txt`
+
+
 #How to run
 Before running the main.py, you should config your own config.yaml
 
